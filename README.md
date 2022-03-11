@@ -3,7 +3,9 @@
 #Librerias
 
 https://www.npmjs.com/package/jspdf-autotable
+
 https://simonbengtsson.github.io/jsPDF-AutoTable/#
+
 https://github.com/simonbengtsson/jsPDF-AutoTable
 
 https://www.npmjs.com/package/exceljs
